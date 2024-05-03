@@ -5,7 +5,7 @@ public class CuentaAhorros {
      private String titularCuenta;
      private int saldo;
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola Cuenta World!");
     }
     public CuentaAhorros(){
     }
